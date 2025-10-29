@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Scene Creator",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model. Upload an image or use the default one, provide an editing instruction or select a scene, and see the AI-generated result.",
+  "requestFramePermissions": []
+}
